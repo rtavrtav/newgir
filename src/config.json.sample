@@ -1,0 +1,10 @@
+# {
+	"token" : "NNNNNNNNAAAAAAAjj",
+	"sql": 
+	{
+	"host" : "localhost",
+	"user" : "dunce",
+	"password" : "lifesucks",
+	"database" : "irc"
+	}
+}
